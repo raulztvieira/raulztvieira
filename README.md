@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Raul Vieira 👋
 
-<!--
-**raulztvieira/raulztvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I"m a web developer. I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current Stack
+- Main Language: `Javascript`
+- Frontend: `Javascript`, `HTML5` e `CSS3`
+- Backend: `NodeJS`
+- Layout Design: `Figma`
+- Version Code Control: `Git & GitHub`
+- Tools: `VSCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- E-mail: raulztvieira@gmail.com
+- Linkedin: https://www.linkedin.com/in/raul-vieira-goncalves/
+- Whatsapp: https://wa.me/5587988612666
